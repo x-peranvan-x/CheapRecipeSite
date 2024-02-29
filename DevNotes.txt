@@ -1,0 +1,13 @@
+Website Goals
+-Incorporate Docker into this
+-Use React to make the Website
+    -Try to understand everything that's going on by npx create-react-app
+-Use a new kind of database; mysql not allowed
+
+Step 1: Learning
+-Review React/JS
+-Learn Docker
+-Do some research on databases
+
+Step 2:Development
+-Build Site
